@@ -1,0 +1,22 @@
+/* Twój kod css */
+
+.box-header {
+    color: #FFF;
+    background-color: #3C8DBC;
+}
+.btn-box-tool {
+    color: #FFFFFF;
+}
+.form-group.has-success, .form-group.has-error {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.box .table-responsive {
+    min-height: .01%;
+    overflow-x: inherit;
+}
+
+div#accordion .box-header {
+    background-color: inherit;
+}
